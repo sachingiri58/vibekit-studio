@@ -35,7 +35,7 @@ Or sign up for a new account — no credit card needed.
 ### 1. Clone the repo
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/vibekit-studio.git
+git clone https://github.com/sachingiri58/vibekit-studio.git
 cd vibekit-studio
 ```
 
@@ -54,9 +54,9 @@ cd netlify/functions && npm install && cd ../..
 Create a `.env` file in the root (never commit this):
 
 ```env
-MONGODB_URI=mongodb+srv://USERNAME:PASSWORD@cluster.mongodb.net/?retryWrites=true&w=majority
+MONGODB_URI=mongodb+srv://sachin:Sachin1234abc@cluster0.jq4rc7l.mongodb.net/vibekit?retryWrites=true&w=majority
 DB_NAME=vibekit
-JWT_SECRET=your_super_secret_key_here_min_32_chars
+JWT_SECRET=vibekit_purple_merit_2026_secret_key_sachin
 ```
 
 ### 4. Run locally with Netlify CLI
